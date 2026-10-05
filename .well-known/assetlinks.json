@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.cskhest_sudo.twa",
+    "sha256_cert_fingerprints": ["E3:7F:71:0E:23:C0:CE:DC:3F:6C:52:84:64:0C:68:D9:EB:1D:CB:BE:25:2C:B8:AA:70:7D:7B:1F:B9:E3:0B:DB"]
+  }
+}]
